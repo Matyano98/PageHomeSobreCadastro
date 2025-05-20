@@ -111,3 +111,23 @@ footer {
         width: 100%;
     }
 }
+/* Fonte para o título principal */
+h1 {
+    font-family: 'Playfair Display', serif; /* Fonte elegante para títulos */
+    font-size: 2.5rem;
+    color: #000000; /* Preto */
+}
+
+/* Fonte para subtítulos */
+h2 {
+    font-family: 'Roboto', sans-serif; /* Fonte moderna para subtítulos */
+    font-size: 1.8rem;
+    color: #000000; /* Preto */
+}
+
+/* Fonte para parágrafos */
+p {
+    font-family: 'Open Sans', sans-serif; /* Fonte leve para parágrafos */
+    font-size: 1rem;
+    color: #000000; /* Preto */
+}
